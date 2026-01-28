@@ -2,19 +2,19 @@
 7 js exercises
 
     
-1. Écrire un programme qui affiche dans la console les nombres de 1 à 10.
+1. Write a program that displays the numbers 1 to 10 in the console.
 
-2. Demander à l’utilisateur son prénom avec  prompt()  et afficher “Bonjour, prénom !” dans la console.
+2. Ask the user for their first name using  prompt()  and display “Hello, first name!” in the console.
 
-3. Calculer la somme de deux nombres saisis par l’utilisateur et afficher le résultat dans la console.
+3. Calculate the sum of two numbers entered by the user and display the result in the console.
 
-4. Écrire une fonction qui prend une chaîne de caractères et retourne le nombre de caractères qu’elle contient.
+4. Write a function that takes a string and returns the number of characters it contains.
 
-5. Vérifier si un nombre saisi par l’utilisateur est pair ou impair, et afficher le résultat dans la console.
+5. Check whether a number entered by the user is even or odd, and display the result in the console.
 
 
-Et pour aller plus loin :
-    
-6. Écrire une fonction qui reçoit un tableau d’entiers et retourne un nouveau tableau contenant uniquement les nombres supérieurs à 10.
+And to go further:
 
-7. Créer un programme qui génère un mot de passe aléatoire de 8 caractères, utilisant uniquement des lettres et des chiffres.
+6. Write a function that receives an array of integers and returns a new array containing only numbers greater than 10.
+
+7. Create a program that generates a random 8-character password using only letters and numbers.
